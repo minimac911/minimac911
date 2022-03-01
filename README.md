@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minimac911
 - 👀 I’m interested in REST APIs and Microservices
-- 🌱 I’m currently learning .NET 5 
+- 🌱 I’m currently learning Java/Spring 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/thomas-mcalpine-323675214/).
 
 <!---
